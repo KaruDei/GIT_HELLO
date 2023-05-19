@@ -17,7 +17,7 @@ Link: https://www.sololearn.com/certificates/CC-1WOY2FSL
 
 # `Task 4:`
 
-![task4](https://github.com/KaruDei/PracticalWork/assets/108537008/ef00424d-f316-4380-a327-cb6d888f1e76)
+![task4v2](https://github.com/KaruDei/PracticalWork/assets/108537008/4de100eb-1020-4dcb-9587-d5c294d8c530)
 
 # `Task 5:`
 
