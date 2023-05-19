@@ -18,3 +18,9 @@ Link: https://www.sololearn.com/certificates/CC-1WOY2FSL
 # `Task 4:`
 
 ![task4](https://github.com/KaruDei/PracticalWork/assets/108537008/ef00424d-f316-4380-a327-cb6d888f1e76)
+
+# `Task 5:`
+
+Link: https://www.sololearn.com/certificates/CT-1NROF2PD
+
+![83859a46-d37b-41b6-969c-e8ac5a3414aa2](https://github.com/KaruDei/PracticalWork/assets/108537008/d5f2fc3f-65fb-4e47-840f-2d08cd05bc4f)
