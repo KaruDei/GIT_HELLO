@@ -5,9 +5,16 @@ This is the Hello World example from the git tutorial.
 
 # `Task 2:`
 
-![task2_1](https://github.com/KaruDei/GIT_HELLO/assets/108537008/0933959a-ce41-47a0-b369-dedf8b17b1ff)
+![task2_1](https://github.com/KaruDei/PracticalWork/assets/108537008/0933959a-ce41-47a0-b369-dedf8b17b1ff)
 
-![task2_2](https://github.com/KaruDei/GIT_HELLO/assets/108537008/68071edf-1746-4404-89a3-c6f96dda8a62)
+![task2_2](https://github.com/KaruDei/PracticalWork/assets/108537008/68071edf-1746-4404-89a3-c6f96dda8a62)
+
+# `Task 3:`
+
+Link: https://www.sololearn.com/certificates/CC-1WOY2FSL
+
+![83859a46-d37b-41b6-969c-e8ac5a3414aa](https://github.com/KaruDei/PracticalWork/assets/108537008/3b455071-87db-4214-acd6-42693473c751)
 
 # `Task 4:`
-![task4](https://github.com/KaruDei/GIT_HELLO/assets/108537008/ef00424d-f316-4380-a327-cb6d888f1e76)
+
+![task4](https://github.com/KaruDei/PracticalWork/assets/108537008/ef00424d-f316-4380-a327-cb6d888f1e76)
