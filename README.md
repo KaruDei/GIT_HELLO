@@ -24,3 +24,10 @@ Link: https://www.sololearn.com/certificates/CC-1WOY2FSL
 Link: https://www.sololearn.com/certificates/CT-1NROF2PD
 
 ![83859a46-d37b-41b6-969c-e8ac5a3414aa2](https://github.com/KaruDei/PracticalWork/assets/108537008/d5f2fc3f-65fb-4e47-840f-2d08cd05bc4f)
+
+# `Task 6:`
+Link: https://github.com/KaruDei/PracticalWork.git
+
+![Снимок экрана 2023-05-23 172803](https://github.com/KaruDei/PracticalWork/assets/108537008/e870ddef-25bf-4e4d-9cac-0ced7053c942)
+
+![Снимок экрана 2023-05-23 172856](https://github.com/KaruDei/PracticalWork/assets/108537008/e9d92517-7d77-4f39-bdb3-55bb8bb0ad75)
