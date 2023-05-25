@@ -31,3 +31,8 @@ Link: https://github.com/KaruDei/PracticalWork.git
 ![Снимок экрана 2023-05-23 172803](https://github.com/KaruDei/PracticalWork/assets/108537008/e870ddef-25bf-4e4d-9cac-0ced7053c942)
 
 ![Снимок экрана 2023-05-23 172856](https://github.com/KaruDei/PracticalWork/assets/108537008/e9d92517-7d77-4f39-bdb3-55bb8bb0ad75)
+
+# `Task 7:`
+Link: https://github.com/KaruDei/PracticalWork_Task-7.git
+
+![task7](https://github.com/KaruDei/PracticalWork/assets/108537008/d9a8cf4e-2455-407c-b9ed-fba35022ea14)
