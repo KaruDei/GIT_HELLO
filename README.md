@@ -36,3 +36,6 @@ Link: https://github.com/KaruDei/PracticalWork.git
 Link: https://github.com/KaruDei/PracticalWork_Task-7.git
 
 ![task7](https://github.com/KaruDei/PracticalWork/assets/108537008/d9a8cf4e-2455-407c-b9ed-fba35022ea14)
+
+# `Task 8:`
+Link: https://github.com/KaruDei/PracticalWork_Task-8.git
